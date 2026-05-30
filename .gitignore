@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Datasets and Large Zip files
+VisDrone2019-MOT-val.zip
+VisDrone2019-MOT-val/
+
+# Project Outputs and generated videos
+output/
+*.mp4
