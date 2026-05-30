@@ -128,7 +128,7 @@ All output tracking videos are hosted on Google Drive. You can view or download 
 | **UAV Sequence 268** | Long-Range / High-Altitude | `uav0000268_05773_v.mp4` | [View Video ↗](https://drive.google.com/drive/folders/1FDXBIe3wIU5c5EB30KFZU0-hZsjitPbZ?usp=sharing) |
 | **UAV Sequence 117** | Multiple Small Targets | `uav0000117_02622_v.mp4` | [View Video ↗](https://drive.google.com/drive/folders/1FDXBIe3wIU5c5EB30KFZU0-hZsjitPbZ?usp=sharing) |
 | **UAV Sequence 137** | Complex Occlusions | `uav0000137_00458_v.mp4` | [View Video ↗](https://drive.google.com/drive/folders/1FDXBIe3wIU5c5EB30KFZU0-hZsjitPbZ?usp=sharing) |
-| **Quick Test Run** | Sample Validation Output | `test_run.mp4` | [View Video ↗](https://drive.google.com/drive/folders/1FDXBIe3wIU5c5EB30KFZU0-hZsjitPbZ?usp=sharing) |
+
 
 
 
