@@ -116,14 +116,20 @@ To deploy this tracking pipeline on edge platforms like the **NVIDIA Jetson (Nan
 
 ## Visual Tracking Demos
 
-> [!TIP]
-> You can view the tracking results for several validation sequences below. 
-> To add the actual video playback on GitHub, edit this README on GitHub.com and drag & drop the MP4 files from your local `output/` folder directly into the editor. GitHub will host them and auto-generate the video players.
+To view the tracking outputs of the pipeline on different sequences, you can upload the videos to a cloud storage provider (e.g., Google Drive, Dropbox, or YouTube) and link them below:
 
-| Sequence | Video Demo / Player |
-| --- | --- |
-| **UAV Sequence 182** (Dense Person Tracking) | *[Drag & Drop `output/uav0000182_00000_v.mp4` here]* |
-| **UAV Sequence 305** (Low-Altitude Pedestrians) | *[Drag & Drop `output/uav0000305_00000_v.mp4` here]* |
-| **UAV Sequence 086** (Multi-Target Ego-Motion) | *[Drag & Drop `output/uav0000086_00000_v.mp4` here]* |
-| **Quick Test Run** (Sample Validation) | *[Drag & Drop `output/test_run.mp4` here]* |
+| Sequence | Scenario | Video Link |
+| --- | --- | --- |
+| **UAV Sequence 182** | Dense Person Tracking | [View Video on Google Drive / YouTube](YOUR_LINK_HERE) |
+| **UAV Sequence 305** | Low-Altitude Pedestrians | [View Video on Google Drive / YouTube](YOUR_LINK_HERE) |
+| **UAV Sequence 086** | Multi-Target Ego-Motion | [View Video on Google Drive / YouTube](YOUR_LINK_HERE) |
+| **UAV Sequence 268** | Long-Range / High-Altitude | [View Video on Google Drive / YouTube](YOUR_LINK_HERE) |
+| **Quick Test Run** | Sample Validation Output | [View Video on Google Drive / YouTube](YOUR_LINK_HERE) |
+
+> [!NOTE]
+> To share your videos:
+> 1. Upload the files from your local `output/` folder to a folder on **Google Drive** or upload them as unlisted on **YouTube**.
+> 2. Get the shareable links (make sure Google Drive access is set to *"Anyone with the link can view"*).
+> 3. Edit this `README.md` and replace `YOUR_LINK_HERE` with your links.
+
 
